@@ -1,4 +1,4 @@
-//DOM
+//DOM 엘리먼트
 const recordButton = document.querySelector(".record-button");
 const stopButton = document.querySelector(".stop-button");
 const playButton = document.querySelector(".play-button");
